@@ -5,9 +5,13 @@
 The objective of this dashboard is to analyze the ICC Champions Trophy matches, focusing on total matches played, wins, winning percentages, and match margins. This analysis helps in understanding team performances, match trends, and key players' contributions.  
 
 ### 📂 **Dataset Used**  
+https://github.com/Adesh282001/Champions-Trophy-Cricket-Analysis/blob/main/all_champions_trophy_matches_results.csv
+https://github.com/Adesh282001/Champions-Trophy-Cricket-Analysis/blob/main/all_champions_trophy_players_list.csv
 
 
  ## **Dashboard**
+ ![image](https://github.com/user-attachments/assets/cb6fdf9e-ea04-43a4-8cb4-4cf8c06c3e98)
+
 
 ### ❓ **Key Questions Addressed**  
 - How many matches were played in total?  
